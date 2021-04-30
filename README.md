@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lisapark6956
+- 🖐🏻 Hi, I’m @lisapark6956
+- 🌹 Check out my gitblog here!! 👉🏻 https://lisapark6956.github.io/
 
 - NickName 😎 : Calisto
 - Languages I'm studying recently 🌹👀 : Swift, JS, HTML, CSS
